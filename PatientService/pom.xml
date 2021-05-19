@@ -9,7 +9,7 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.fresco</groupId>
+	<groupId>com.irsplay</groupId>
 	<artifactId>PatientService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PatientService</name>
